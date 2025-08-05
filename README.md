@@ -5,6 +5,8 @@
 
 2. Free Git Course With Certification [2025]
 
+3. Sololearn C Certification
+
 
 
 
@@ -16,6 +18,11 @@
 
 2.Free Git Course With Certification
 ![App Screenshot](https://github.com/arjunsanthoshwork/5322794_Arjun/blob/main/git/GITSIMPLILEARN.png)
+
+3.Sololearn C Certification
+![App Screenshot](https://github.com/arjunsanthoshwork/5322794_Arjun/blob/main/c%20programing/Assignment/sololearncbeginercertificate.jpg)
+
+![App Screenshot](https://github.com/arjunsanthoshwork/5322794_Arjun/blob/main/c%20programing/Assignment/sololearncintermediatecertificate.jpg)
 
 
 
