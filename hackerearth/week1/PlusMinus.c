@@ -1,7 +1,9 @@
-
+#include <iostream>
+#include <vector>
+#include <iomanip>
+using namespace std;
 
 void plusMinus(vector<int> arr) {
-
     float p = 0.0, n = 0.0, z = 0.0;
     float t = arr.size();
 
@@ -14,9 +16,14 @@ void plusMinus(vector<int> arr) {
             z++;
     }
 
-    printf("%.6f\n", p / t);
-    printf("%.6f\n", n / t);
-    printf("%.6f\n", z / t);
+    cout << fixed << setprecision(6);
+    cout << p / t << endl;
+    cout << n / t << endl;
+    cout << z / t << endl;
 }
 
- 
+int main() {
+    vector<int> arr = {-4, 3, -9, 0, 4, 1};
+    plusMinus(arr);
+    return 0;
+}
